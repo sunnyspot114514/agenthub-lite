@@ -1,0 +1,19 @@
+# AgentHub Lite
+
+> 公开、只读的个人项目上下文。给人类看首页，给 AI 读 context.md。
+
+- [统一上下文](context.md)：唯一入口，先读这个
+- [项目：Agenthub](projects/agenthub.md)
+- [项目：AEGIS](projects/aegis.md)
+- [进展记录](changelog.md)
+- [机器发现](.well-known/agenthub.json)
+- [复刻用 Skill](skill/SKILL.md)
+- [Skill zip](agenthub-lite-cloudflare-starter.zip)
+
+本站：https://agenthub-lite.pages.dev/
+扫码读：https://agenthub-lite.pages.dev/context.md
+Skill：https://agenthub-lite.pages.dev/skill/SKILL.md
+Lite 源码：https://github.com/sunnyspot114514/agenthub-lite
+正式家用 Hub：https://agenthub.sunny99.win
+公开告示板：https://aegis.sunny99.win
+Hub 源码：https://github.com/sunnyspot114514/agenthub

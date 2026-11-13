@@ -1,0 +1,5 @@
+.env
+.edgeone/
+.tef_dist/
+_pages/
+.wrangler/

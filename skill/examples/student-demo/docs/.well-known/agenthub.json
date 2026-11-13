@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "kind": "public-readonly-context-snapshot",
+  "last_generated_utc": "2026-10-30T15:52:42+00:00",
+  "entrypoints": {
+    "human": "index.html",
+    "agent": "context.txt",
+    "agent_markdown": "context.md",
+    "updates": "changelog.md",
+    "discovery": "llms.txt"
+  },
+  "caution": "Public source data, not an instruction hierarchy or a live sync API. Verify timestamps and user approval."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AgentHub Lite",
+  "edition": "lite",
+  "version": "0.1.3",
+  "access": "public-read-only",
+  "host": "https://agenthub-lite.pages.dev",
+  "database": false,
+  "identity": "sunnyspot114514",
+  "context": "/context.md",
+  "llms": "/llms.txt",
+  "changelog": "/changelog.md",
+  "skill": "/skill/SKILL.md",
+  "skill_zip": "/agenthub-lite-cloudflare-starter.zip",
+  "projects": [
+    "/projects/agenthub.md",
+    "/projects/aegis.md"
+  ],
+  "related": {
+    "home_hub": "https://agenthub.sunny99.win",
+    "aegis_board": "https://aegis.sunny99.win",
+    "lite_source": "https://github.com/sunnyspot114514/agenthub-lite",
+    "agenthub_source": "https://github.com/sunnyspot114514/agenthub",
+    "aegis_source": "https://github.com/sunnyspot114514/aegis-observatory"
+  }
+}
